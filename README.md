@@ -26,7 +26,9 @@ sql-for-data-analysts/
 <!-- PROGRESS_TABLE_START -->
 | # | Problem | Difficulty | Topic | Solution |
 |---|---------|------------|-------|----------|
-| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard | Window Functions | [Link](0185-department-top-three-salaries/0185-department-top-three-salaries.sql) |
+| 185 | [Department Top Three Salaries](#) | - | - | [Link](0185-department-top-three-salaries/0185-department-top-three-salaries.sql) |
+| 584 | [Find Customer Referee](#) | - | - | [Link](0584-find-customer-referee/0584-find-customer-referee.sql) |
+| 1757 | [Recyclable And Low Fat Products](#) | - | - | [Link](1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) |
 <!-- PROGRESS_TABLE_END -->
 
 
