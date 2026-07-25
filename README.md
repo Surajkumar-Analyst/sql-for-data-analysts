@@ -29,6 +29,7 @@ sql-for-data-analysts/
 | 185 | [Department Top Three Salaries](#) | - | - | [Link](0185-department-top-three-salaries/0185-department-top-three-salaries.sql) |
 | 584 | [Find Customer Referee](#) | - | - | [Link](0584-find-customer-referee/0584-find-customer-referee.sql) |
 | 595 | [Big Countries](#) | - | - | [Link](0595-big-countries/0595-big-countries.sql) |
+| 1068 | [Product Sales Analysis I](#) | - | - | [Link](#) |
 | 1148 | [Article Views I](#) | - | - | [Link](1148-article-views-i/1148-article-views-i.sql) |
 | 1378 | [Replace Employee Id With The Unique Identifier](#) | - | - | [Link](1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql) |
 | 1683 | [Invalid Tweets](#) | - | - | [Link](1683-invalid-tweets/1683-invalid-tweets.sql) |
