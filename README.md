@@ -32,6 +32,7 @@ sql-for-data-analysts/
 | 1068 | [Product Sales Analysis I](#) | - | - | [Link](#) |
 | 1148 | [Article Views I](#) | - | - | [Link](1148-article-views-i/1148-article-views-i.sql) |
 | 1378 | [Replace Employee Id With The Unique Identifier](#) | - | - | [Link](1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql) |
+| 1581 | [Customer Who Visited But Did Not Make Any Transactions](#) | - | - | [Link](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) |
 | 1683 | [Invalid Tweets](#) | - | - | [Link](1683-invalid-tweets/1683-invalid-tweets.sql) |
 | 1757 | [Recyclable And Low Fat Products](#) | - | - | [Link](1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) |
 <!-- PROGRESS_TABLE_END -->
