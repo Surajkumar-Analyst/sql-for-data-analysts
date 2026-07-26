@@ -27,6 +27,7 @@ sql-for-data-analysts/
 | # | Problem | Difficulty | Topic | Solution |
 |---|---------|------------|-------|----------|
 | 185 | [Department Top Three Salaries](#) | - | - | [Link](0185-department-top-three-salaries/0185-department-top-three-salaries.sql) |
+| 197 | [Rising Temperature](#) | - | - | [Link](0197-rising-temperature/0197-rising-temperature.sql) |
 | 584 | [Find Customer Referee](#) | - | - | [Link](0584-find-customer-referee/0584-find-customer-referee.sql) |
 | 595 | [Big Countries](#) | - | - | [Link](0595-big-countries/0595-big-countries.sql) |
 | 1068 | [Product Sales Analysis I](#) | - | - | [Link](#) |
