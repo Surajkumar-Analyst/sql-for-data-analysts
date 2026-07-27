@@ -33,6 +33,7 @@ sql-for-data-analysts/
 | 595 | [Big Countries](#) | - | - | [Link](0595-big-countries/0595-big-countries.sql) |
 | 1068 | [Product Sales Analysis I](#) | - | - | [Link](#) |
 | 1148 | [Article Views I](#) | - | - | [Link](1148-article-views-i/1148-article-views-i.sql) |
+| 1280 | [Students And Examinations](#) | - | - | [Link](1280-students-and-examinations/1280-students-and-examinations.sql) |
 | 1378 | [Replace Employee Id With The Unique Identifier](#) | - | - | [Link](1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql) |
 | 1581 | [Customer Who Visited But Did Not Make Any Transactions](#) | - | - | [Link](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) |
 | 1661 | [Average Time Of Process Per Machine](#) | - | - | [Link](1661-average-time-of-process-per-machine/1661-average-time-of-process-per-machine.sql) |
