@@ -40,6 +40,7 @@ sql-for-data-analysts/
 | 1661 | [Average Time Of Process Per Machine](#) | - | - | [Link](1661-average-time-of-process-per-machine/1661-average-time-of-process-per-machine.sql) |
 | 1683 | [Invalid Tweets](#) | - | - | [Link](1683-invalid-tweets/1683-invalid-tweets.sql) |
 | 1757 | [Recyclable And Low Fat Products](#) | - | - | [Link](1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) |
+| 1934 | [Confirmation Rate](#) | - | - | [Link](1934-confirmation-rate/1934-confirmation-rate.sql) |
 <!-- PROGRESS_TABLE_END -->
 
 
