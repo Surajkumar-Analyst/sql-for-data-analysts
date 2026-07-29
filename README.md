@@ -32,6 +32,7 @@ sql-for-data-analysts/
 | 577 | [Employee Bonus](#) | - | - | [Link](0577-employee-bonus/0577-employee-bonus.sql) |
 | 584 | [Find Customer Referee](#) | - | - | [Link](0584-find-customer-referee/0584-find-customer-referee.sql) |
 | 595 | [Big Countries](#) | - | - | [Link](0595-big-countries/0595-big-countries.sql) |
+| 620 | [Not Boring Movies](#) | - | - | [Link](0620-not-boring-movies/0620-not-boring-movies.sql) |
 | 1068 | [Product Sales Analysis I](#) | - | - | [Link](#) |
 | 1148 | [Article Views I](#) | - | - | [Link](1148-article-views-i/1148-article-views-i.sql) |
 | 1280 | [Students And Examinations](#) | - | - | [Link](1280-students-and-examinations/1280-students-and-examinations.sql) |
