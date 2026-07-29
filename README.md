@@ -35,6 +35,7 @@ sql-for-data-analysts/
 | 620 | [Not Boring Movies](#) | - | - | [Link](0620-not-boring-movies/0620-not-boring-movies.sql) |
 | 1068 | [Product Sales Analysis I](#) | - | - | [Link](#) |
 | 1148 | [Article Views I](#) | - | - | [Link](1148-article-views-i/1148-article-views-i.sql) |
+| 1251 | [Average Selling Price](#) | - | - | [Link](1251-average-selling-price/1251-average-selling-price.sql) |
 | 1280 | [Students And Examinations](#) | - | - | [Link](1280-students-and-examinations/1280-students-and-examinations.sql) |
 | 1378 | [Replace Employee Id With The Unique Identifier](#) | - | - | [Link](1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql) |
 | 1581 | [Customer Who Visited But Did Not Make Any Transactions](#) | - | - | [Link](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) |
