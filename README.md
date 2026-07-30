@@ -34,6 +34,7 @@ sql-for-data-analysts/
 | 595 | [Big Countries](#) | - | - | [Link](0595-big-countries/0595-big-countries.sql) |
 | 620 | [Not Boring Movies](#) | - | - | [Link](0620-not-boring-movies/0620-not-boring-movies.sql) |
 | 1068 | [Product Sales Analysis I](#) | - | - | [Link](#) |
+| 1075 | [Project Employees I](#) | - | - | [Link](1075-project-employees-i/1075-project-employees-i.sql) |
 | 1148 | [Article Views I](#) | - | - | [Link](1148-article-views-i/1148-article-views-i.sql) |
 | 1251 | [Average Selling Price](#) | - | - | [Link](1251-average-selling-price/1251-average-selling-price.sql) |
 | 1280 | [Students And Examinations](#) | - | - | [Link](1280-students-and-examinations/1280-students-and-examinations.sql) |
