@@ -36,6 +36,7 @@ sql-for-data-analysts/
 | 1068 | [Product Sales Analysis I](#) | - | - | [Link](#) |
 | 1075 | [Project Employees I](#) | - | - | [Link](1075-project-employees-i/1075-project-employees-i.sql) |
 | 1148 | [Article Views I](#) | - | - | [Link](1148-article-views-i/1148-article-views-i.sql) |
+| 1193 | [Monthly Transactions I](#) | - | - | [Link](1193-monthly-transactions-i/1193-monthly-transactions-i.sql) |
 | 1211 | [Queries Quality And Percentage](#) | - | - | [Link](1211-queries-quality-and-percentage/1211-queries-quality-and-percentage.sql) |
 | 1251 | [Average Selling Price](#) | - | - | [Link](1251-average-selling-price/1251-average-selling-price.sql) |
 | 1280 | [Students And Examinations](#) | - | - | [Link](1280-students-and-examinations/1280-students-and-examinations.sql) |
